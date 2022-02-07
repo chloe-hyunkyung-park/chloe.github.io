@@ -5,10 +5,11 @@ Master's study of data analysis, work projects in the workplace, and various ana
 - Machine Learning
 - Time Series
 - Kaggle
->> Preprocessing
->> - Pandas
->> - Numpy
->> - Advanced Python
+
+> Studypolio : Preprocessing Data
+- Pandas
+- Numpy
+- Advanced Python
 
 > Data Analyst in Krafton (2020.02~)
 - [파이썬톺아보기1(Reviewing Python1)](test_220207.html)
