@@ -1,5 +1,6 @@
 # chloe.github.io
-Master's study of data analysis, work projects in the workplace, and various analysis technique study polio (ML modeling, time series analysis, recommendation system, etc.)
+Collection of projects conducted while working, self-study projects, and projects during master's courses in data analysis.
+근무 중 진행한 분석 프로젝트, 스터디폴리오, 그리고 데이터분석 석사 프로젝트 모음집
 
 
 Studypolio : Dig into Data Science
